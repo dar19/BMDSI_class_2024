@@ -1,7 +1,5 @@
 # BMDI_class_2024
-Biomedical Data Science Initiative class - 2024
-
-@ NIA/NIH
+Biomedical Data Science Initiative class - 2024 @ NIA/NIH
 
 By: Dr. Showkat Dar
 
