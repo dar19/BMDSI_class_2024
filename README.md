@@ -12,11 +12,14 @@ We have used following pakckages for data visualisations:
 
 Python version: 3.11.5
 
+Jupyter Notebook version: 6.5.4
+
 Seaborn version: 0.12.2
 
 Matplotlib version: 3.7.2
 
 NumPy version: 1.24.3
+
 ________________
 
 Contact:
