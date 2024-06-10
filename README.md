@@ -9,6 +9,7 @@ This repository includes the class material for Biomedical Data Science Initiati
 It includes presentations and jupyter notebooks for examples.
 
 We have used following pakckages for data visualisations:
+
 Python version: 3.11.5
 
 Seaborn version: 0.12.2
