@@ -1,7 +1,7 @@
 # BMDSI_class_2024
 Biomedical Data Science Initiative class - 2024 @ NIA/NIH
 
-CLASS: **Data Visualization and Plotting with Python**
+CLASS: **Data Visualization and Plotting with Python**
 
 By: Dr. Showkat Dar
 
